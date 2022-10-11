@@ -14,6 +14,8 @@ Tomamos desde
 https://www.youtube.com/watch?v=5x79o72E0pw&t=35s&ab_channel=JEVSOFT
 
 Patron de diseño MVC
+https://developer.mozilla.org/es/docs/Glossary/MVC
+
 
 Campos
 
